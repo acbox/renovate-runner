@@ -1,4 +1,7 @@
 {
+  "extends": [
+    "config:base"
+  ],
   "dryRun": true,
   "gitAuthor": "Renovate Bot <foo@bar.baz>",
   "platform": "github",
