@@ -6,6 +6,5 @@
   "platform": "github",
   "repositories": [
     "acbox/tf-control-repo"
-  ],
-  "enabledManagers": ["terraform-module"]
+  ]
 }
