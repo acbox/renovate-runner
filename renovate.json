@@ -2,7 +2,8 @@
   "extends": [
     "config:base"
   ],
-  "gitAuthor": "Renovate Bot <foo@bar.baz>",
+  "dryRun": true,
+  "gitAuthor": "Linus Torvalds <torvalds@linux-foundation.org>",
   "platform": "github",
   "repositories": [
     "acbox/tf-control-repo"
